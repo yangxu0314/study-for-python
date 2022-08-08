@@ -1,0 +1,5 @@
+matplotlib.py中，是学习折线图的代码
+
+scatter_squares.py, 是学习散点图的代码
+
+两个png图，一个是去空白，一个没有去空白
